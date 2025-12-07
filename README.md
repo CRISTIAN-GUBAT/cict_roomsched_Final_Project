@@ -1,5 +1,5 @@
 
- # Title : CICT RoomSched - Classroom Reservation & Management System
+ # Title : CICT RoomSched 
 
  ## Description
  **CICT RoomSched** is a comprehensive web-based classroom reservation and management system designed for the College of Information and Communications Technology (CICT). The system provides role-based access for administrators, instructors, and students to manage room reservations, schedules, and academic activities efficiently. The platform features real-time scheduling, conflict detection, calendar views, and comprehensive room management capabilities.
